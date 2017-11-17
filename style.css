@@ -1,5 +1,8 @@
 body {
 	margin: 0;
+	width: 1500px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .header {
@@ -130,17 +133,18 @@ button {
 h2 {
 	color: darkgoldenrod;
 }
-.txt1{
-		font-size: 21px;
+
+.txt1 {
+	font-size: 21px;
 	line-height: 28px;
 	color: darkgoldenrod;
 	padding-left: 400px;
 }
-.cooking{
-	
-} 
-.btnn2{
-		padding-bottom: 10px;
+
+.cooking {}
+
+.btnn2 {
+	padding-bottom: 10px;
 	padding-top: 10px;
 	padding-left: 5px;
 	padding-right: 5px;
@@ -150,6 +154,71 @@ h2 {
 	color: white;
 	font-weight: bold;
 }
-.img{
+
+.img {
 	padding-left: 550px;
+}
+
+.team {
+	height: 455px;
+	box-sizing: border-box;
+	padding-top: 350px;
+	padding-left: 150px;
+}
+
+.team_p {
+	color: darkgoldenrod;
+	font-size: 25px;
+	text-align: center;
+}
+
+h3 {
+	font-size: 30px;
+	color: darkgoldenrod;
+	text-align: center;
+}
+
+.btn3 {
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-left: 500px;
+	border: 5px solid black;
+	background: #99cc00;
+	color: white;
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 35px;
+	color: darkgoldenrod;
+	text-align: center;
+	margin-left: 150px;
+}
+
+.register {
+	padding-top: 150px;
+}
+
+.txt3 {
+	color: darkgoldenrod;
+	font-size: 25px;
+	text-align: center;
+}
+
+.txt_3 {
+	box-sizing: border-box;
+}
+.txt4{
+	height: 250px;
+	width: 250px;
+}
+.register2{
+	display: flex;
+	padding-left: 100px;
+}
+.gigans2{
+	margin-bottom: 500px;
+	
 }
