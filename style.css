@@ -1,0 +1,155 @@
+body {
+	margin: 0;
+}
+
+.header {
+	width: 100%;
+	text-transform: uppercase;
+	position: fixed;
+	top: 0;
+	z-index: 9;
+	background: #ffffff;
+	padding-top: 20px;
+}
+
+.menu {
+	display: table-cell;
+	display: flex;
+	vertical-align: middle;
+	text-align: right;
+	padding-right: 50px;
+	height: 100%;
+	padding-top: 20px;
+}
+
+.logo {
+	margin-left: 100px;
+	width: 300px;
+	height: 100px;
+}
+
+.flex {
+	display: flex;
+}
+
+.txt {
+	margin-left: 100px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.header2 {
+	width: 1366px;
+	height: 700px;
+}
+
+.mytona {
+	margin-left: 500px;
+}
+
+.mytona2 {
+	margin-left: 560px;
+}
+
+h1 {
+	margin-left: 530px;
+	color: darkgoldenrod;
+}
+
+.p {
+	text-align: center;
+	color: darkgoldenrod;
+}
+
+button {
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-left: 600px;
+	border: 5px solid black;
+	background: #99cc00;
+	color: white;
+	font-weight: bold;
+}
+
+.txt2 {
+	color: gray;
+	font-weight: bold;
+}
+
+.games {
+	height: 800px;
+}
+
+.bnr {
+	padding-top: 75px;
+	padding-left: 590px;
+	font-size: 30px;
+	color: darkgoldenrod;
+}
+
+.gms {
+	padding-left: 300px;
+	display: flex;
+}
+
+.gameicon {
+	font-size: 21px;
+	line-height: 28px;
+	color: darkgoldenrod;
+	padding-right: 20px;
+}
+
+.gameicon2 {
+	font-size: 21px;
+	line-height: 28px;
+	color: darkgoldenrod;
+	padding-left: 20px;
+}
+
+.sorc {
+	height: 500px;
+	width: 500px;
+}
+
+.btnn {
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-left: 150px;
+	border: 5px solid black;
+	background: #99cc00;
+	color: white;
+	font-weight: bold;
+}
+
+h2 {
+	color: darkgoldenrod;
+}
+.txt1{
+		font-size: 21px;
+	line-height: 28px;
+	color: darkgoldenrod;
+	padding-left: 400px;
+}
+.cooking{
+	
+} 
+.btnn2{
+		padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-left: 690px;
+	border: 5px solid black;
+	background: #99cc00;
+	color: white;
+	font-weight: bold;
+}
+.img{
+	padding-left: 550px;
+}
